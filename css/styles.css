@@ -375,3 +375,8 @@ section {
   letter-spacing: 0.02em;
   color: #fff;
 }
+.footer-social {
+  display: flex;
+  align-items: baseline;
+  margin-right: 120px;
+}
