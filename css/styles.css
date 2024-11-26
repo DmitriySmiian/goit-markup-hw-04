@@ -358,7 +358,6 @@ section {
   display: inline-block;
   margin-bottom: 16px;
 }
-
 .footer-text {
   width: 264px;
   font-family: 'Roboto', sans-serif;
@@ -374,9 +373,18 @@ section {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #fff;
+  margin-bottom: 16px;
 }
 .footer-social {
   display: flex;
+  gap: 16px;
+  justify-content: center;
+}
+.footer-container {
+  display: flex;
   align-items: baseline;
+}
+.container {
   margin-right: 120px;
 }
+-p
