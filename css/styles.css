@@ -366,6 +366,7 @@ section {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+  margin-bottom: 16px;
 }
 .footer-social-text {
   font-weight: 500;
@@ -382,8 +383,6 @@ section {
 .footer-container {
   display: flex;
   align-items: baseline;
-}
-.container {
   margin-right: 120px;
 }
 
