@@ -377,7 +377,6 @@ section {
 }
 .footer-social {
   display: flex;
-  gap: 16px;
   justify-content: center;
 }
 .footer-container {
@@ -398,6 +397,7 @@ section {
   background-color: #31d0aa;
 }
 .footer-social-link {
+  gap: 16px;
   display: flex;
   justify-content: center;
   align-items: center;
